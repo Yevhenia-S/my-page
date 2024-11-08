@@ -25,6 +25,8 @@ header {
 .logo {
   margin-top: 10px;
   margin-bottom: 10px;
+  height: 40px;
+  width: 40px;
 }
 
 .nav-list {
